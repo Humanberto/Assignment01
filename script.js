@@ -57,7 +57,7 @@
 
 // It is not valid because the ' in "I'm" is being interpreted as a single quote. To fix this, I used a backslash before ' in order for it to be interpreted as an apostrophe instead of a single quote.
 
-// // STEP 9
+// STEP 9
 // let nullVariable = null;
 // console.log(nullVariable);
 
@@ -96,32 +96,32 @@
 // console.log(welcomeMessage);
 
 // STEP 17
-let x = 10;
-let y = 20;
-console.log(x + y);
+// let x = 10;
+// let y = 20;
+// console.log(x + y);
 
 // STEP 18
-let x = 20;
-x += 20;
-console.log(x);
+// let x = 20;
+// x += 20;
+// console.log(x);
 
 // STEP 19
-let x = 20;
-x *= 5;
-console.log(x);
+// let x = 20;
+// x *= 5;
+// console.log(x);
 
 // STEP 20
-let x = 20 % 3;
-x /= 1;
-console.log(x);
+// let x = 20 % 3;
+// x /= 1;
+// console.log(x);
 
 // STEP 21
-let a = 5;
-let b = 10;
-let c = 15;
-console.log((a < b) && (b < c)); 
+// let a = 5;
+// let b = 10;
+// let c = 15;
+// console.log((a < b) && (b < c)); 
 
 // STEP 22
-let d = 20;
-let e = 25;
-console.log((d > e) || (d == e));
+// let d = 20;
+// let e = 25;
+// console.log((d > e) || (d == e));
