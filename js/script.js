@@ -90,10 +90,10 @@
 // alert(welcomeMessage);
 
 // STEP 15, 16
-// let name = promp("What is your name?");
-// let course = prompt("What class are you taking?");
-// let welcomeMessage = "Hello " + name + ".\nWelcome to the " + course + " class!";
-// console.log(welcomeMessage);
+let name = promp("What is your name?");
+let course = prompt("What class are you taking?");
+let welcomeMessage = "Hello " + name + ".\nWelcome to the " + course + " class!";
+console.log(welcomeMessage);
 
 // STEP 17
 // let x = 10;
